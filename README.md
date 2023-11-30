@@ -22,4 +22,4 @@ Desenvolvedor Android em busca de novos conhecimentos! Desenvolvendo apps mobile
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=guihroch&icon=0&color=0)](https://visitcount.itsvg.in)
